@@ -1,0 +1,42 @@
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\BeiraRioFuncionarios.exe.config
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\BeiraRioFuncionarios.exe
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\BeiraRioFuncionarios.pdb
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.AssemblyReference.cache
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Properties.Resources.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.GenerateResource.cache
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.exe
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.pdb
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Form1.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormCadasteMe.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormPrincipal.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.CopyComplete
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.ExCadastroForm.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.CarrosForm.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.CadastroClineteForm.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormVenda.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormAddFuncionario.resources
+C:\Users\marisa\Videos\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormQuadro.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\BeiraRioFuncionarios.exe.config
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\BeiraRioFuncionarios.exe
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\BeiraRioFuncionarios.pdb
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\System.Data.SqlClient.dll
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\bin\Debug\System.Data.SqlClient.xml
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.AssemblyReference.cache
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.CadastroClineteForm.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.CarrosForm.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.ExCadastroForm.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Form1.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormAddFuncionario.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormCadasteMe.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormPrincipal.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormQuadro.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Apresentacao.FormVenda.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.Properties.Resources.resources
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.GenerateResource.cache
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRio.CD083B9B.Up2Date
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.exe
+C:\Users\marisa\Videos\Programação\Projetos\Projetos Exemplos\Projetos espalhados\BeiraRioFuncionarios\BeiraRioFuncionarios\BeiraRioFuncionarios\obj\Debug\BeiraRioFuncionarios.pdb
